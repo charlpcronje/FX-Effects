@@ -30,3 +30,6 @@
 
 11. JavaScript Prototype in PHP4o
 - https://chatgpt.com/c/67d3a514-73f8-8002-9bf7-e2bcf441f831
+
+12. Prototypal Inheritance in PHP
+- https://claude.ai/chat/a57cc9ef-7c5c-44e0-bc2d-08fcf7f4e6c4
